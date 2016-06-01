@@ -39,7 +39,7 @@
 
 #### 分享的方法
 
-要分享你的故事要透過github issue, 網友要發表看法也是透過github, 這樣會讓資訊可讀性高很多.
+要分享你的故事要透過github issue, 已經熟悉github操作儘量用github comment回饋意見, 不熟悉的網友回饋意見可以先在channel中回饋意見, 這樣會讓資訊可讀性高很多.
 
 故事會同步到slack channel, 如果對github操作不熟悉, 分享前可以先用slack與我私訊
 
