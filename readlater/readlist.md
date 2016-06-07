@@ -1,4 +1,5 @@
 ## read it later
+- [程式自學十年心得：想吃這行飯，學好演算法與資料結構才能讓你站穩腳步](http://buzzorange.com/techorange/2016/04/13/self-study-program-with-datastructure-and-algorithm/)
 - [90后，为什么我不聘用你？](http://gupowang.baijia.baidu.com/article/475820)
 - [三十歲新鮮人！專訪閱樂書店店長蔡瑞珊：當你一無所有，你就只剩初衷](http://womany.net/read/article/10647)
 - [ProTips for Staying Sane while Working from Home - phptek 2016 session](http://www.jeffgeerling.com/blog/2016/protips-staying-sane-while-working-home-phptek-2016-session)
